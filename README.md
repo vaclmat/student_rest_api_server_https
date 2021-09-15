@@ -24,3 +24,4 @@ https://www.seidengroup.com/2021/04/26/how-to-validate-self-signed-ssl-tls-certi
 
 
  PS: Directory node_modules is missing. Te same as in student_rest_api_server repository.
+ Swagger UI does not work on http - only on https with server cerificate in trusted certificates.
