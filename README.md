@@ -23,4 +23,4 @@ To add this nodejs server certificate to trusted certificates follow link:
 https://www.seidengroup.com/2021/04/26/how-to-validate-self-signed-ssl-tls-certificates-from-ibm-i/
 
 
- 
+ PS: Directory node_modules is missing. Te same as in student_rest_api_server repository.
